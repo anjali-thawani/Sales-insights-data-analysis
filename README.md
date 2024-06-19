@@ -13,6 +13,7 @@ AtliQ Hardware is a company which suplies computer hardware and peripherals acro
 - In 2019, the total revenue was 257.56 M Rs with 652K sales quantity of Brick and Mortar customer type And the total revenue was 78.46M Rs with 195K sales quantity of Ecommerce customer type.
 - In 2020, the total revenue was 113.14M Rs with 262K sales quantity of Brick and Mortar customer type And the total revenue was 29.09M Rs with 89K sales quantity of Ecommerce customer type.
 
+## DashBoard
 
 ![Screenshot (292)](https://github.com/anjali-thawani/Sales-insights-data-analysis/assets/168136647/3e4ddd74-e99f-4ec8-a5ed-1831fcd5c630)
 

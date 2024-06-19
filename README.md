@@ -3,6 +3,12 @@
 ## Problem Statement
 AtliQ Hardware is a company which suplies computer hardware and peripherals across India. They have a lot of regional offices. The Director of AtliQ Hardware is facing problem in tracking the sales and insights of his business.
 
+## Objective 
+- Identify patterns and trends over time (e.g., seasonal variations, monthly/quarterly trends).
+- Detect growth or decline in sales performance.
+- Determine which products or services are top sellers and Identify underperforming products or services.
+
+
 ## tools used
 - power bi
 - MySQL
